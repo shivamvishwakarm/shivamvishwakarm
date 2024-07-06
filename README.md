@@ -4,7 +4,7 @@ Hi 👋 My name is Shivam Vishwakarma
 Full Stack Web developer
 ------------------------
 
-I have been learning coding for the last 2 years. I started my programming journey with Python and became interested in Web development with JavaScript. Then I also contributed to open source during Hacktoberfest 2022. I am a 3rd-year undergrad IT student and Continuously upgrading myself in the fast-moving tech world.
+I have been learning coding for the last 2 years. I started my programming journey with Python and became interested in Web development with JavaScript. Then I also contributed to open source during Hacktoberfest 2022. I am a final year IT student and Continuously upgrading myself in the fast-moving tech world.
 
 * 🌍  I'm based in India 🇮🇳
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-blue-three-83.vercel.app/)
