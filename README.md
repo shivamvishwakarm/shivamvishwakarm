@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **admin@shivam09.tech**
 
-- ⚡ Fun fact **I don't exist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
