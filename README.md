@@ -16,7 +16,6 @@
 
 - 📫 Reach out to me at **admin@shivam09.tech**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamvishwakarm&" alt="chandansgowda" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
