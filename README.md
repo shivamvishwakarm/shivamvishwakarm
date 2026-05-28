@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend, Backend and System design**
 
-- 📫 Reach out to me at **hello09shivam@gmail.com*
+- 📫 Reach out to me at **hello09shivam@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
