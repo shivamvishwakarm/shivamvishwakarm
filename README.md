@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 My portfolio - [shivam09.tech](https://www.shivamv.online)
+- 👨‍💻 My portfolio - [shivamv.online](https://www.shivamv.online)
 
 - 📑 Check out my resume here - [My Resume](https://www.shivam09.tech/Shivam_1yrExp_MERN.pdf)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend, Backend and System design**
 
-- 📫 Reach out to me at **admin@shivam09.tech**
+- 📫 Reach out to me at **hello09shivam@gmail.com*
 
 
 <h3 align="left">Languages and Tools:</h3>
